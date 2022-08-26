@@ -1,0 +1,44 @@
+######################
+# Entando
+######################
+
+.entando
+node_modules
+# Node
+
+ 
+######################
+
+ 
+/node/
+
+ 
+node_tmp/
+
+ 
+node_modules/
+
+ 
+npm-debug.log.*
+
+ 
+/.awcache/*
+
+ 
+/.cache-loader/*
+
+
+######################
+# IntelliJ IDEA
+######################
+
+.idea
+*.iws
+*.iml
+*.ipr
+
+######################
+# Keycloak DB files
+######################
+
+/svc/keycloak/keycloak-db
